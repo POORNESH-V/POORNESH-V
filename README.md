@@ -1,6 +1,6 @@
 Hi, This is POORNESH V
 # 💫 About Me:
-🔭 I’m currently a student at BIT-Bengaluru<br>🤝 I’m eager to collaborate with fellow developers on open-source projects <br>🌱 I’m currently learning Data Structures and Web development<br>💬 Ask me about Python and C++<br>⚡ Fun fact : Much programming time is spent analyzing the user's behavior<br>
+🔭 I’m currently an undergraduate student at BIT-Bengaluru<br>🤝 I’m eager to collaborate with fellow developers on open-source projects <br>🌱 I’m currently learning Data Structures, Algorithms and Web development<br>💬 Ask me about Python and C++<br>⚡ Fun fact: Much programming time is spent analyzing the user's behavior!<br>
 
 
 ## 🌐 Socials:
