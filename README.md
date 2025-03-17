@@ -1,9 +1,11 @@
-# Hello.. This is Poornesh V
+# Hello!👋 This is Poornesh V
 
 # 💫 About Me:
 🔭 I’m currently an undergraduate student at BIT-Bengaluru<br>🤝 I’m eager to collaborate with fellow developers on open-source projects <br>🌱 I’m currently learning Data Structures, Algorithms and Full stack development<br>💬 Ask me about C++, C and Python <br>⚡ Fun fact: Much programming time is spent analyzing the user's behavior!<br>
+## Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
 
 # 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=white)](mailto:poorneshv.2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poorneshv) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25344647) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PoorneshV2) 
