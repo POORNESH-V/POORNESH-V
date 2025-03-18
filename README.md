@@ -3,12 +3,14 @@
 ## 💫 About Me:
 🔭 I’m currently an undergraduate student at BIT-Bengaluru<br>🤝 I’m eager to collaborate with fellow developers on open-source projects <br>🌱 I’m currently learning Data Structures, Algorithms and Full stack development<br>💬 Ask me about C++, C and Python <br>⚡ Fun fact: Much programming time is spent analyzing the user's behavior!<br>
 ### Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
+<hr>
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=white)](mailto:poorneshv.2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poorneshv) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25344647) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PoorneshV2) 
+<hr>
 
 ## 💻 Tech Stack:
 ### Languages & Tools:  
@@ -29,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+<hr>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=POORNESH-V&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
