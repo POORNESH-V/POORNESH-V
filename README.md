@@ -1,4 +1,4 @@
-## Hello!👋 This is Poornesh V
+## Hello👋 This is Poornesh V !
 
 ## 💫 About Me:
 🔭 I’m currently an undergraduate student at BIT, Bengaluru<br>🤝 I’m eager to collaborate with fellow developers on open-source projects <br>🌱 I’m currently learning Data Structures, Algorithms and Full stack development<br>💬 Ask me about C++, C and Python <br>⚡ Fun fact: Much programming time is spent analyzing the user's behavior!<br>
