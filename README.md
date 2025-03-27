@@ -1,7 +1,10 @@
 ## Hello👋 This is Poornesh V !
 
 ## 💫 About Me:
-🔭 I’m currently an undergraduate engineering student at BIT, Bengaluru<br>🤝 I’m eager to collaborate with fellow developers on open-source projects <br>🌱 I’m currently learning Data Structures, Algorithms and Full stack development<br>💬 Ask me about C++, C and Python <br>⚡ Fun fact: Much programming time is spent analyzing the user's behavior!<br>
+🔭 I’m currently an undergraduate engineering student at BIT, Bengaluru<br>🤝 I’m eager to collaborate with fellow developers on open-source projects <br>🌱 I’m currently learning Data Structures, Algorithms and Full stack development<br>
+💬 Ask me about C++, C and Python <br>
+🎨 I am a Graphic designer by passion <br> 
+⚡ Fun fact: Much programming time is spent analyzing the user's behavior!<br>
 ### Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
 <hr>
 
