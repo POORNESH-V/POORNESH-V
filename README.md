@@ -6,7 +6,7 @@
 🌱 I’m currently learning Data Structures, Algorithms and Full stack development<br>
 💬 Ask me about C++, C and Python <br>
 ⚡ Fun fact: Much programming time is spent analyzing the user's behavior!<br>
-### Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
+### Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions
 <hr>
 
 ## 🌐 Socials:
